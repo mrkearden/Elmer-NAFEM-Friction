@@ -128,8 +128,8 @@ Boundary Condition 1
 
 !  Initial Slip Contact = Logical True
 Friction Contact = Logical True
-Static Friction Coefficient = Real 0.50
-Dynamic Friction Coefficient = Real 0.50
+Static Friction Coefficient = Real 0.10
+Dynamic Friction Coefficient = Real 0.10
 Initial Stick Model = Logical True
 Contact Velocity(3) = Real 1 0 0
 
