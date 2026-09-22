@@ -1,0 +1,34 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = punch
+End
+
+Body 2
+  Name = die
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = bnry2
+End
+
+Boundary Condition 2
+  Name = load
+End
+
+Boundary Condition 3
+  Name = fixed
+End
+
+Boundary Condition 4
+  Name = axi
+End
+
+Boundary Condition 5
+  Name = master
+End
+
+Boundary Condition 6
+  Name = slave
+End
+

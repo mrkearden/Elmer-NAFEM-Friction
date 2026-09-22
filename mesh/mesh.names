@@ -1,0 +1,10 @@
+! ----- names for bodies -----
+$ punch = 1
+$ die = 2
+! ----- names for boundaries -----
+$ bnry2 = 1
+$ load = 2
+$ fixed = 3
+$ axi = 4
+$ master = 5
+$ slave = 6
